@@ -1,0 +1,8 @@
+<resources>
+    <string name="twitter_key" translatable="false" templateMergeStrategy="preserve">
+        brudlAVsXz0wprtQSwJcFq0Rk
+    </string>
+    <string name="twitter_secret" translatable="false" templateMergeStrategy="preserve">
+        71ykeUjdDQFlQaT0li9cNSJbdCtXsab9bnHF1bQRUYQIFxYs2H
+    </string>
+</resources>

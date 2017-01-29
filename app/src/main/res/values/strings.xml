@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">OS_android_exercise</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="presentation">PRESENTATION</string>
+    <string name="description">At ACME Butchers we offer you the best meats, sausages and prepared dishes, among other gourmet delicacies.
+        If you have an event and want to delight your guests with healthy, fresh and tasty products, contact us.</string>
+    <string name="delivery">Delivery to home</string>
+    <string name="delivery_des">Place your order today and have it ready at your home tomorrow</string>
+    <string name="traditional">Traditional Cut</string>
+    <string name="traditional_des">We do not have prepared trays. Our court is both a craftsman and a professional.</string>
+    <string name="quality">Quality</string>
+    <string name="quality_des">Quality meat from the Pyrenean valleys. With the best guarantees of health and taste.</string>
+    <string name="service">24h service</string>
+    <string name="service_des">In our refrigerated transport we guarantee that we will comply within 24 hours with our commitments.</string>
+    <string name="restoration">Restoration </string>
+    <string name="restoration_des">We serve the best restaurants in Zaragoza. If you run a restaurant, call us.</string>
+    <string name="meat">Delicatessen</string>
+    <string name="meat_des">The best examples of Iberian ham and traditional sausages. Specialists in delicatessen .</string>
+    <string name="title_activity_map">MapActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="shops">Shops nearby</string>
+    <string name="title_activity_twiter">TwiterActivity</string>
+
+</resources>
